@@ -34,7 +34,7 @@ With all of that out of the way, let's get started!! Our goal is to gain root ac
 8. Scroll down until you find the com.meizu.root.OpenSystemRightActivity option, click on this.
 9. I like to press the 'Try' button, this will show a message "Sorry. You cannot launch this activity from this app because it requires some additional permissions to launch." Don't worry this is a good sign, it actually means that you have followed all of the previous steps correctly.
 10. Press 'Create', it will then exit the application and add a 'Flyme' icon/app to your home screen.
-11. Click this application, it will then show the 'Disclaimer for Open System Permissions'.
+11. Click this application, it will then show the 'Disclaimer for Open System Permissions'. You can read that [here](https://github.com/OfficialJavaScript/Root-and-Rom/blob/main/M3%20Note/Disclaimer%20for%20Open%20System%20Permissions.md). 
 12. Please make sure that you read through the disclaimer.
 13. If you agree to these terms press Accept, then ok, your phone will be restarted, I don't believe it wipes the phone.
 14. If you do not agree to these terms, close the application immediately, and stop following this guide.
