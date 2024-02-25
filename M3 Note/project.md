@@ -24,10 +24,12 @@ These phones seem to be no longer supported, as updates are no longer pushed to 
 
 With all of that out of the way, let's get started!! Our goal is to gain root access, in the future, we will unlock the bootloader, and install TWRP.
 
-All APKs used in this guide, as well as VirusTotal scans are located in the [APK folder](https://github.com/OfficialJavaScript/Root-and-Rom/tree/main/M3%20Note/APK)
+All APKs used in this guide, as well as VirusTotal scans, are located in the [APK folder](https://github.com/OfficialJavaScript/Root-and-Rom/tree/main/M3%20Note/APK)
+
+Here's a link to the 
 
 1. Backup all of your files, as a precaution.
-2. Login (or Signup) to your Flyme Account --- I think this step is necessary, but I can't remember, the process is similar to the M6 Note so I'm trying to remember off the top of my head 😅
+2. Login (or Signup) to your Flyme Account --- I think this step is necessary, but I can't remember, the process is similar to the M6 Note so I'm s the trying to remember off the top of my head 😅
 3. Install the MeizuAccount.apk attached in this repository, the preinstalled version for some reason doesn't let you obtain root through the method we use here.
 4. Install the QuickShortcutMaker.apk attached in the repository.
 5. Enter Easy Mode, this is accessible by opening Settings, then scrolling down to the device section, selecting 'Easy Mode', then pressing 'ENABLE'.
@@ -43,6 +45,11 @@ All APKs used in this guide, as well as VirusTotal scans are located in the [APK
 15. Continuing from step 13, once your phone has started you should be successfully rooted, install the attached RootChecker.apk
 16. Once the application is installed and agree to its disclaimer, then go through the Get Started guide.
 17. Click Verify Root, and allow the root permissions request, it may give you a warning about Third-Party access to root, I allowed it, if you disallow it, the application won't gain access to root.
-18. You should now be successfully rooted!
+18. Now we are going to create a Root Permission Shortcut, to do this open the QuickShortcutMaker application and Go to the Activities tab.
+19. Click the 'Input keyword to filter' option, and type "root", a settings option should appear, click that to open the drop-down menu.
+20. Click the 'Root Permission' "com.meizu.settings.MzSettingsActivity$RootPermissionSettingsActivity" option and create the shortcut.
+21. Now you should have a shortcut named "Settings" - you can change the name of this when creating it, after clicking on the "com.meizu.settings.MzSettingsActivity...." option at the top there should be a "settings" 'tap to change label' option.
+22. Opening this shortcut you should be able to make Applications 'Ask', 'Allow' or straight up stop the root permissions with 'Disallow'
+23. You should now be successfully rooted, I hope this helped!
 
 If you have any problems or questions, don't be afraid to open an issue, I will reply to you as soon as I can, I may not be able to answer every question.
