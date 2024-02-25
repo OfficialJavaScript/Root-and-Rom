@@ -3,7 +3,7 @@
 Steps to gain root and in the future hopefully install a custom rom.
 
 # Disclaimer
-I am not responsible for any damage caused by this tutorial, this is just a project of mine and doesn't mean you need to follow along with me, if the phone bricks it's not my fault, especially if you have a different model M3 Note to me.
+I am not responsible for any damage caused by this guide, this is just a project of mine and doesn't mean you need to follow along with me, if the phone bricks it's not my fault, especially if you have a different model M3 Note to me.
 
 I am free from liability for any risk or consequence from following this guide.
 
@@ -24,6 +24,8 @@ These phones seem to be no longer supported, as updates are no longer pushed to 
 
 With all of that out of the way, let's get started!! Our goal is to gain root access, in the future, we will unlock the bootloader, and install TWRP.
 
+All APKs used in this guide, as well as VirusTotal scans are located in the [APK folder](https://github.com/OfficialJavaScript/Root-and-Rom/tree/main/M3%20Note/APK)
+
 1. Backup all of your files, as a precaution.
 2. Login (or Signup) to your Flyme Account --- I think this step is necessary, but I can't remember, the process is similar to the M6 Note so I'm trying to remember off the top of my head 😅
 3. Install the MeizuAccount.apk attached in this repository, the preinstalled version for some reason doesn't let you obtain root through the method we use here.
@@ -43,4 +45,4 @@ With all of that out of the way, let's get started!! Our goal is to gain root ac
 17. Click Verify Root, and allow the root permissions request, it may give you a warning about Third-Party access to root, I allowed it, if you disallow it, the application won't gain access to root.
 18. You should now be successfully rooted!
 
-If you have any problems, or questions, don't be afraid to open a issue, I will reply to you as soon as I can, I may not be able to answer every question.
+If you have any problems or questions, don't be afraid to open an issue, I will reply to you as soon as I can, I may not be able to answer every question.
