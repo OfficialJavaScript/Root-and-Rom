@@ -26,10 +26,10 @@ With all of that out of the way, let's get started!! Our goal is to gain root ac
 
 All APKs used in this guide, as well as VirusTotal scans, are located in the [APK folder](https://github.com/OfficialJavaScript/Root-and-Rom/tree/main/M3%20Note/APK)
 
-Here's a link to the 
+Here's a link to the video version: [CLICK](https://drive.google.com/file/d/17MBOBE_WYpkQ_3-AU08JfYW2rk1Pw_Xb/view?usp=sharing) (I recommend you check this out as well as the instructions below) 
 
 1. Backup all of your files, as a precaution.
-2. Login (or Signup) to your Flyme Account --- I think this step is necessary, but I can't remember, the process is similar to the M6 Note so I'm s the trying to remember off the top of my head 😅
+2. Login (or Signup) to your Flyme Account --- I think this step is necessary, but I can't remember, the process is similar to the M6 Note so I'm trying to remember off the top of my head 😅
 3. Install the MeizuAccount.apk attached in this repository, the preinstalled version for some reason doesn't let you obtain root through the method we use here.
 4. Install the QuickShortcutMaker.apk attached in the repository.
 5. Enter Easy Mode, this is accessible by opening Settings, then scrolling down to the device section, selecting 'Easy Mode', then pressing 'ENABLE'.
